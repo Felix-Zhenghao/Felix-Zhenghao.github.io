@@ -52,8 +52,8 @@ menu:
     url:               /example/
   - title:             Research
     url:               /research/  
-#  - title:             Resume
-#    url:               /about/
+  - title:             Resume
+    url:               ./
   
 
 # Add links to the footer.
