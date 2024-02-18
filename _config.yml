@@ -49,22 +49,22 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             About
-    url:               about/about.md
-  - title:             Research
-    url:               /about/  
-  - title:             Resume
-    url:               /about/
+    url:               /example/
+#  - title:             Research
+#    url:               /about/  
+#  - title:             Resume
+#    url:               /about/
   
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
-legal:
-  - title:             LICENSE
-    url:               /LICENSE/
-  - title:             NOTICE
-    url:               /NOTICE/
-  - title:             CHANGELOG
-    url:               /CHANGELOG/
+#legal:
+#  - title:             LICENSE
+#    url:               /LICENSE/
+ # - title:             NOTICE
+#    url:               /NOTICE/
+#  - title:             CHANGELOG
+#    url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2024. All rights reserved.
