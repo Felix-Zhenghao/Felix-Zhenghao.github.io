@@ -9,7 +9,7 @@
 # When your site is in a subdirectory, set to `/<name of directory>`,
 # with a leading `/` but no trailing `/`. Use the empty string '' otherwise.
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-baseurl:               '/about/'
+# baseurl:               '/about/'
 
 
 # General settings
@@ -25,8 +25,7 @@ title:                 Felix Z. Chi
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  Felix is an undergraduate at Fudan University.
 
 # A shorter description for the sidebar.
 tagline:               For the well-being of the masses.
