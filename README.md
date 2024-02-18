@@ -1,20 +1,13 @@
-# Hydejack Starter Kit
+# How to add new features:
 
-A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
+## 在侧边栏中新增条目
+在_config.yml 文件中找到menu条目，添加:
 
-## Quick Start
-### Running locally
-1. Clone repository (git users), or [download] and unzip.
-2. Open terminal, `cd` into root directory (where `_config.yml` is located)
-3. Run `bundle install` [^1]
-4. Run `bundle exec jekyll serve`
-5. Open <http://localhost:4000/hydejack-starter-kit/>
+menu:<br>
 
-## What's next?
-* Open files and read the comments
-* Read the [docs](https://hydejack.com/docs/)
-* Buy the [PRO version](https://hydejack.com/download/) to get the project and resume layout, newsletter subscription box, custom forms, and more.
+  - title:             <Name of the menu>
 
-[^1]: Requires Bundler. Install with `gem install bundler`.
+  - url:               /<name of the file>/
 
-[download]: https://github.com/hydecorp/hydejack-starter-kit/archive/master.zip
+
+
