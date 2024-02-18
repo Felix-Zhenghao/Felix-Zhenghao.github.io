@@ -1,17 +1,21 @@
 ---
 # Featured tags need to have either the `list` or `grid` layout (PRO only).
-layout: list
+layout: about
 
 # The title of the tag's page.
-title: Example
+title: My research
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
 slug: example
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
-description: >
-  This is a featured category, which have their own page.
-  Check out `_featured_tags/example.md` to learn how to create your own.
+bests: >
+
+"Here's to the crazy ones. The misfits, the rebels, the troublemakers, the round pegs in the square holes, the ones who see things differently. They're not fond of rules, and they have no respect for the    status quo. You can quote them, disagree with them, glorify or vilify them. About the only thing you can't do is ignore them. Because they change things - they push the human race forward. And while some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do." --Steve Jobs
+
+“When something is important enough, you do it even if the odds are not in your favor. ” --Elon Musk
+
+“The best way to predict the future is to create it ” --Abraham Lincoln
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
