@@ -49,7 +49,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             About
-    url:               /about/about.md
+    url:               about/about.md
   - title:             Research
     url:               /about/  
   - title:             Resume
