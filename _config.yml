@@ -49,11 +49,11 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             About
-    url:               /example/
+    url:               /index
   - title:             Research
     url:               /research/  
-  - title:             Resume
-    url:               /index
+  - title:             Activities
+    url:               /example/
   
 
 # Add links to the footer.
