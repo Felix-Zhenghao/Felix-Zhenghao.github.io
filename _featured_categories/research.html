@@ -1,0 +1,76 @@
+---
+# Featured tags need to have either the `list` or `grid` layout (PRO only).
+layout: about
+
+# The title of the tag's page.
+title: My research
+
+# The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
+slug: my research
+
+# (Optional) Write a short (~150 characters) description of this featured tag.
+# description: > 
+
+# (Optional) You can disable grouping posts by date.
+# no_groups: true
+
+# Exclude this example category from the sitemap.
+# DON'T USE THIS SETTING IN YOUR CATEGORIES!
+sitemap: false
+---
+
+
+<head>
+    <style>
+        .container {
+            display: flex;
+            max-width: 1200px;
+            background: white;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            padding: 20px;
+        }
+        .image-section {
+            flex: 1;
+            width: 300px;
+        }
+        .text-section {
+            flex: 2;
+            margin-left: 20px;
+        }
+        .text-section img {
+            max-width: 100%;
+            height: auto;
+        }
+        .text-section h3 {
+           margin: 0px; 
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="image-section">
+            <img src="./assets/img/photo.png" alt="Curricular Data Visualization">
+        </div>
+      
+        <div class="text-section">
+          <h3>Cross-Episodic Curriculum for Transformer Agents</h3>
+              <strong>Lucy Xiaoyang Shi*</strong>, 
+              <a href="https://yunfanj.com/">Yunfan Jiang*</a>, 
+              <a href="https://jakegrigsby.github.io/">Jake Grigsby</a>, 
+              <a href="https://jimfan.me/">Linxi 'Jim' Fan†</a>, 
+              <a href="https://www.cs.utexas.edu/~yukez/">Yuke Zhu†</a><br>
+              <p><em>Neural Information Processing Systems (NeurIPS), 2023</em></p>
+          
+            <p>
+                <a href="#">paper</a> /
+                <a href="#">project</a> /
+                <a href="#">code</a> /
+                <a href="#">twitter</a>
+            </p>
+          
+            <p><small>CEC enhances Transformer agents' learning efficiency and generalization by structuring cross-episodic experiences in-context.</small>small</p>
+        </div>
+    </div>
+</body>
+
+
