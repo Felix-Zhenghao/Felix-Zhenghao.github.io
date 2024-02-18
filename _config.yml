@@ -50,8 +50,8 @@ author:
 menu:
   - title:             About
     url:               /example/
-#  - title:             Research
-#    url:               /about/  
+  - title:             Research
+    url:               /research/  
 #  - title:             Resume
 #    url:               /about/
   
