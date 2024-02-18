@@ -52,8 +52,8 @@ menu:
     url:               /index
   - title:             Research
     url:               /research/  
-  - title:             Activities
-    url:               /example/
+  - title:             Activity
+    url:               /activity/
   
 
 # Add links to the footer.
